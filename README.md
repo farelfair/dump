@@ -1,0 +1,20 @@
+## a05mxx-user 15 AP3A.240905.015.A2 A055FXXU9DYF5 release-keys
+- Manufacturer: samsung
+- Platform: mt6768
+- Codename: a05m
+- Brand: samsung
+- Flavor: a05mxx-user
+- Release Version: 15
+- Kernel Version: 6.6.50
+- Id: AP3A.240905.015.A2
+- Incremental: A055FXXU9DYF5
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a05mxx/a05m:15/AP3A.240905.015.A2/A055FXXU9DYF5:user/release-keys
+- OTA version: 
+- Branch: a05mxx-user-15-AP3A.240905.015.A2-A055FXXU9DYF5-release-keys
+- Repo: samsung_a05m_dump
